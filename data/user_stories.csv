@@ -1,0 +1,12 @@
+id,story,human_baseline
+1,"As a user, I want to reset my password via email so that I can regain account access.",3
+2,"As an admin, I want to export all user activity logs in CSV format so that I can analyze system usage.",8
+3,"As a customer, I want to view my order history so that I can track my purchases.",2
+4,"As a user, I want to update my profile picture so that my account feels personalized.",2
+5,"As a teacher, I want to create assignments and assign them to multiple classes so that I can save time.",6
+6,"As a user, I want to receive push notifications for new messages so that I stay updated in real time.",7
+7,"As a manager, I want to generate monthly performance dashboards so that I can track KPIs.",8
+8,"As a guest, I want to browse the product catalog without signing in so that I can explore freely.",2
+9,"As a customer, I want to apply discount codes at checkout so that I can save money.",4
+10,"As a developer, I want to integrate payment gateways (PayPal, Stripe) so that transactions are secure.",9
+
