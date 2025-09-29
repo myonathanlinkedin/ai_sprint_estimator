@@ -17,7 +17,6 @@ A Python-based AI framework for evaluating local large language models (LLMs) in
 - **📈 Detailed Analytics**: Response latency, parse success rates, and estimation accuracy
 - **🎯 Structured Outputs**: JSON-based responses with estimates, reasoning, and confidence levels
 - **📋 Reproducible Results**: Complete pipeline with saved raw, parsed, and aggregated data
-- **🧪 Academic Ready**: Designed for research papers with comprehensive evaluation metrics
 
 ## 🏗️ Architecture
 
@@ -230,44 +229,3 @@ PROMPT_USER_TEMPLATE = (
     "Be concise."
 )
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author & Credits
-
-**AI Sprint Estimator**  
-Developed by: **Your Name**
-
-### Attribution Notice
-When using this software, please include the following attribution:
-
-```
-AI Sprint Estimator
-Copyright (c) 2025 Your Name
-Licensed under the MIT License
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📚 Academic Use
-
-This project is designed for academic research and provides:
-
-- **Reproducible Methodology**: Complete pipeline with documented steps
-- **Structured Data Outputs**: CSV and JSON formats for analysis
-- **Comprehensive Benchmarking**: Statistical metrics for evaluation
-- **Privacy-Preserving Evaluation**: Local LLM integration
-- **Research-Ready**: Suitable for academic papers and publications
-
----
-
-**AI Sprint Estimator** - Transforming Agile estimation with AI-powered local LLM evaluation and comprehensive benchmarking.
-
